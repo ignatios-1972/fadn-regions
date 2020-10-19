@@ -1,4 +1,5 @@
 panel
-hvplot
-scikit-learn
-nbconvert
+holoviews
+geoviews
+geopandas
+
