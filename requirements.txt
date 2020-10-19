@@ -2,4 +2,4 @@ panel
 holoviews
 geoviews
 geopandas
-
+cartopy
