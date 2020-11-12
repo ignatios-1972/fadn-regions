@@ -1,4 +1,4 @@
 panel
 holoviews
 nbconvert
-Cartopy, installed
+cartopy
