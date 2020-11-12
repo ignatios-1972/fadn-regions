@@ -1,3 +1,4 @@
 panel
 holoviews
 nbconvert
+Cartopy, installed
