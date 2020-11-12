@@ -1,5 +1,3 @@
-NumPy
 panel
 holoviews
 nbconvert
-cartopy
