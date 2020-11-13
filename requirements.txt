@@ -1,5 +1,3 @@
 panel
 holoviews
-geoviews
-geopandas
 nbconvert
